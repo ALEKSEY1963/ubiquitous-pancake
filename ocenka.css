@@ -13,11 +13,11 @@
   font-style: italic;
 }
 .header {
-  color: rgb(65, 46, 208);
+  color: rgb(87, 69, 221);
   font-size: 18px;
 }
 .header:hover {
-  color: red;
+  color: rgb(239, 20, 20);
   opacity: 0.5;
 }
 .navbar {
@@ -27,7 +27,7 @@
 }
 .navbar ul {
   list-style-position: 0;
-  margin: 10px;
+  margin: 11px;
   padding: 0;
 }
 .navbar ul li {
