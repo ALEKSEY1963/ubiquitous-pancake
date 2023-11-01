@@ -95,7 +95,7 @@ h5 {
   text-decoration: none;
 }
 .card {
-  background: rgb(220, 240, 230);
+  background: rgb(119, 147, 133);
   padding: 50px;
   margin: 10px;
   border-radius: 50px;
@@ -141,7 +141,7 @@ p {
   font-display: 40px;
 }
 .btn {
-  border-radius: 20px;
+  border-radius: 18px;
   cursor: pointer;
   text-align: center;
   padding: center;
